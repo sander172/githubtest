@@ -18,7 +18,7 @@ namespace githubtesten
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            MessageBox.Show("");
+            MessageBox.Show("CUYKA BLIYAT");
         }
     }
 }
